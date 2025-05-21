@@ -17,9 +17,7 @@
 🚀 I'm a passionate programmer and lifelong learner, always exploring the world of **Computer Science**.
 
 <!-- - Currently focused on learning **Web Development**
-- Strong foundation in **Data Structures and Competitive Programming**
-- Looking to collaborate on interesting **open source** or **CP-related tools**
-- Happy to help with CP, C++, STL, or logic-building tips -->
+- Looking to collaborate on interesting **open source** or **CP-related tools** -->
 - 🤝 Open to collaborations on exciting **open source** or **CP-related tools**
 - 🌐 Currently diving into **Web Development** and exploring **Machine Learning**
 - 📚 Constantly curious, always learning, and experimenting with new technologies
@@ -43,5 +41,5 @@
   <a href="https://github.com/vishalpatel2023" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=vishalpatel2023&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
   </a>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=vishalpatel2023&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalpatel2023&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </div>
