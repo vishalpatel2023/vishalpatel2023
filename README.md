@@ -30,7 +30,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vishal_Patel3314" alt="Codeforces" height="250" />
   </a>
   <a href="https://leetcode.com/u/VISHAL_PATEL_CODER/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/VISHAL_PATEL_CODER?ext=contest" alt="Leetcode" height="250" />
+    <img src="https://leetcard.jacoblin.cool/vishal_patel_79?ext=contest" alt="Leetcode" height="250" />
   </a>
 </div>
 
