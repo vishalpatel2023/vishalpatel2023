@@ -6,7 +6,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalpatel2025)
-[![LeetCode user vishal_patel_79](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvishal_patel_79&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/vishal_patel_79/)
+[![LeetCode user vishalpatel_79](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvishalpatel_79&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/vishalpatel_79/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=Vishal_Patel3314)](https://codeforces.com/profile/Vishal_Patel3314)
 [![Codechef](https://cp-logo.vercel.app/codechef/vishalpatel_79)](https://www.codechef.com/users/vishalpatel_79)
 
@@ -29,8 +29,8 @@
   <a href="https://codeforces.com/profile/Vishal_Patel3314" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vishal_Patel3314" alt="Codeforces" height="250" />
   </a>
-  <a href="https://leetcode.com/u/vishal_patel_79/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/vishal_patel_79?ext=contest" alt="Leetcode" height="250" />
+  <a href="https://leetcode.com/u/vishalpatel_79/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/vishalpatel_79?ext=contest" alt="Leetcode" height="250" />
   </a>
 </div>
 
