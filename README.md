@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalpatel2025)
 [![LeetCode user vishalpatel_79](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvishalpatel_79&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/vishalpatel_79/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=Vishal_Patel3314)](https://codeforces.com/profile/Vishal_Patel3314)
-[![Codechef](https://cp-logo.vercel.app/codechef/vishalpatel_79)](https://www.codechef.com/users/vishalpatel_79)
+[![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vishalpatel_79)
 
 </div>
 
