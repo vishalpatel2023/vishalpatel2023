@@ -36,10 +36,12 @@
 
 ---
 
-<div align="center">
+
+<!-- these are broken links now (means link is not working) -->
+<!-- <div align="center">
   <h3>📊 GitHub Stats & Achievements</h3>
   <a href="https://github.com/vishalpatel2023" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=vishalpatel2023&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=vishalpatel2023&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</div>
+</div> -->
