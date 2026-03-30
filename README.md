@@ -26,9 +26,9 @@
 
 <div align="center">
   <h3>🏆 Competitive Programming</h3>
-  <a href="https://codeforces.com/profile/Vishal_Patel3314" target="_blank">
+  <!-- <a href="https://codeforces.com/profile/Vishal_Patel3314" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vishal_Patel3314" alt="Codeforces" height="250" />
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/vishalpatel_79/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/vishalpatel_79?ext=contest" alt="Leetcode" height="250" />
   </a>
