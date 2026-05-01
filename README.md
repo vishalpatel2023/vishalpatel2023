@@ -5,10 +5,38 @@
 
 <br/>
 
+<!-- <h3 align="center">Socials </h3> -->
+<br>
+  <a href="https://www.linkedin.com/in/vishalpatel2025/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;&nbsp;
+  <a href="mailto:vishalpatelvns3314@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a> &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/vishalpatel_79">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
+  </a> &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/vishalpatel_79">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef">
+  </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vishalpatel_79/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode">
+  </a> &nbsp;&nbsp;
+  <!-- <a href="https://www.kaggle.com/omamar106">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle">
+  </a> &nbsp;&nbsp; -->
+  <a href="https://www.hackerrank.com/profile/vishal_20233314">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank">
+  </a> &nbsp;&nbsp;
+
+
+<!--
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalpatel2025)
 [![LeetCode user vishalpatel_79](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvishalpatel_79&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/vishalpatel_79/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=Vishal_Patel3314)](https://codeforces.com/profile/Vishal_Patel3314)
 [![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vishalpatel_79)
+-->
 
 </div>
 
