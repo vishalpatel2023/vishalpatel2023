@@ -95,6 +95,22 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
+<!--
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vishalpatel2023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vishalpatel2023&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpatel2023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+-->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vishalpatel2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 <!--
 
 <h1 align="center">Tech Stack</h1>
@@ -108,7 +124,7 @@
   
 <!-- <p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=omamar106&layout=compact&theme=vision-friendly-dark&langs_count=12&size_weight=0.5&count_weight=0.5"></p> -->
 
----
+
 
 
 <!-- these are broken links now (means link is not working) -->
