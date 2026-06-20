@@ -72,7 +72,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23150458.svg?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly%20(8085/8051)-%23000000.svg?style=for-the-badge)
 
 ### 🌐 Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -86,7 +85,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20/%20ML-%23D00000.svg?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF4F8B.svg?style=for-the-badge)
+<!-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF4F8B.svg?style=for-the-badge) -->
 
 ### 🛠 Tools & Environment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
