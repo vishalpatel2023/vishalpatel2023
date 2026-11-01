@@ -52,7 +52,8 @@
 - ➕ I have a deep love for **Mathematics** and logical thinking — they fuel my coding journey
 ---
 
- <div align="center">
+<!--
+ </div align="center">
   <h3>🏆 Competitive Programming</h3>
   <a href="https://codeforces.com/profile/Vishal_Patel3314" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vishalpatel_79" alt="Codeforces" height="250" />
@@ -62,7 +63,9 @@
   </a>
 </div> 
 
+
 ---
+-->
 
 <h1 align="center">Tech Stack</h1>
 
