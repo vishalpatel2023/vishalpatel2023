@@ -42,14 +42,14 @@
 
 ---
 
-🚀 I'm a passionate programmer and lifelong learner, always exploring the world of **Computer Science**.
+I'm a passionate programmer and lifelong learner, always exploring the world of **Computer Science**.
 
 <!-- - Currently focused on learning **Web Development**
 - Looking to collaborate on interesting **open source** or **CP-related tools** -->
-- 🤝 Open to collaborations on exciting **open source** or **CP-related tools**
-- 🌐 Currently diving into **Web Development** and exploring **Machine Learning**
-- 📚 Constantly curious, always learning, and experimenting with new technologies
-- ➕ I have a deep love for **Mathematics** and logical thinking — they fuel my coding journey
+-  Open to collaborations on exciting **open source** or **CP-related tools**
+-  Currently diving into **Web Development** and exploring **Machine Learning**
+-  Constantly curious, always learning, and experimenting with new technologies
+-  I have a deep love for **Mathematics** and logical thinking — they fuel my coding journey
 ---
 
 <!--
@@ -69,28 +69,28 @@
 
 <h1 align="center">Tech Stack</h1>
 
-### 💻 Languages & Core Fundamentals
+### Languages & Core Fundamentals
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23150458.svg?style=for-the-badge)
 
-### 🌐 Backend & Databases
+### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
-### 🧠 Data Science & Machine Learning
+### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20/%20ML-%23D00000.svg?style=for-the-badge)
 <!-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF4F8B.svg?style=for-the-badge) -->
 
-### 🛠 Tools & Environment
+### Tools & Environment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
