@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/vishalpatel2023" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Vishal+Patel!;%3CCompetitive+Programmer%3E;%3CExploring+Web+Development%3E;%3CLoves+Problem+Solving%3E;%3COpen+Source+Explorer%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Vishal+Patel!;%3CCompetitive+Programmer%3E;%3CExploring+AI+Engineering%3E;%3CLoves+Problem+Solving%3E;%3COpen+Source+Explorer%3E" alt="Typing SVG" />
   </a>
 
 <br/>
@@ -41,15 +41,19 @@
 </div>
 
 ---
+I'm a Computer Science student at Motilal Nehru National Institute of Technology (MNNIT), Allahabad, passionate about building software and understanding the intelligence behind it.
 
-I'm a passionate programmer and lifelong learner, always exploring the world of **Computer Science**.
+My journey started with programming, problem-solving, and competitive programming, gradually expanding into full-stack development and machine learning.
 
 <!-- - Currently focused on learning **Web Development**
 - Looking to collaborate on interesting **open source** or **CP-related tools** -->
--  Open to collaborations on exciting **open source** or **CP-related tools**
--  Currently diving into **Web Development** and exploring **Machine Learning**
+-  Building full-stack applications using the MERN stack.
+-  Exploring Machine Learning, from mathematical foundations to practical implementations.
+-  Currently diving deep into AI Engineering, LLM-powered applications, and agentic workflows.
+-  Exploring LangChain, LangGraph, RAG, AI Agents, and LLM orchestration.
 -  Constantly curious, always learning, and experimenting with new technologies
--  I have a deep love for **Mathematics** and logical thinking — they fuel my coding journey
+-  Strong interest in mathematics, algorithms, and understanding how things work under the hood.
+-  Open to collaborating on interesting projects, especially in AI/ML and software development.
 ---
 
 <!--
